@@ -1,6 +1,6 @@
 # Cousera Backend
 
-> A GitHub App built with [Probot](https://probot.github.io) that {{ description }}
+> A GitHub App built with Nodejs
 
 ## Setup
 
